@@ -2,7 +2,11 @@
 
 # Welcome to PDF Annotator!
 
-ThemeSetting
+Multi-window System (2023-06-04)
+
+<img src="res/Screenshot from 2023-06-04 19-34-00.png" width="600px"/>
+
+Theme Setting (2023-02-15)
 
 <img src="res/Screenshot from 2023-02-15 17-51-28.png" width="600px"/>
 
