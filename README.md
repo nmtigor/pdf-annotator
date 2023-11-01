@@ -2,6 +2,12 @@
 
 # Welcome to PDF Annotator!
 
+## Skeleton (2023-11-02)
+
+<img src="res/ssr-2023-11-02_00.34.33_1280.gif" width="600px"/>
+
+<img src="res/ssr-2023-11-05_01.26.19_1280.gif" width="600px"/>
+
 ## Plaintext Editor (2023-08-07)
 
 Move caret by visual order of logical order `[..."abc אמנון\n0123 xyz"]`:
